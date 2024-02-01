@@ -43,4 +43,4 @@ habría 121 nodos, uno por cada celda:
 - Agregar conexiones
 - Implementar printGraph()
 
-Para comprobar la solución instalar los modulos con `npm install` y ejecutar `npm run test`. Un video con la solucion explicada se encuentra en este [enlace]: (https://youtu.be/3OUe2F_sytw)
+Para comprobar la solución instalar los modulos con `npm install` y ejecutar `npm run test`. Un video con la solucion explicada se encuentra en este [enlace](https://youtu.be/3OUe2F_sytw)
